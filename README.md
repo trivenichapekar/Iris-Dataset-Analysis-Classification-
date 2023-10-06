@@ -10,10 +10,10 @@ petal length in cm
 petal width in cm
 species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 # Libraries
-pandas
-matplotlib
-seaborn
-scikit-learn
+  pandas
+  matplotlib
+  seaborn
+  scikit-learn
 # Algorithms
 Logistic Regression
 K-Nearest Neighbors
