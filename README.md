@@ -18,7 +18,12 @@ species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
   
   scikit-learn
 # Algorithms
+Random Forest Classifier
+
 Logistic Regression
+
 K-Nearest Neighbors
+
 Decision Tree
+
 Best Model Accuracy: 100.00
